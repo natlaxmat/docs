@@ -8,3 +8,11 @@
 Тесты-кейсы для тестирования регистрации, логина и каталога
 
 [Ссылка на тестовый набор](https://app.qase.io/project/G10?previewMode=side&suite=32) 
+
+Тестовый набор для модуля регистрации и логина в формате PDF:
+
+[Ссылка на PDF файл](https://github.com/natlaxmat/docs/blob/main/Registration%20and%20Authorization.pdf)
+
+Тестовый набор для модуля каталога товаров в формате PDF:
+
+[Ссылка на PDF файл](https://github.com/natlaxmat/docs/blob/main/Product%20Catalog.pdf)

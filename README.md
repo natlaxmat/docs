@@ -16,3 +16,10 @@
 Тестовый набор для модуля каталога товаров в формате PDF:
 
 [Ссылка на PDF файл](https://github.com/natlaxmat/docs/blob/main/Product%20Catalog.pdf)
+
+Отчеты о дефекте для регистрации, логина и каталога
+
+[Ссылка на отчеты о дефекте в формате XLSX](https://github.com/natlaxmat/docs/blob/main/Issues.xlsx)
+
+[Ссылка на тестовый прогон в формате PDF](https://github.com/natlaxmat/docs/blob/main/G10-Express%2Brun.pdf)
+
